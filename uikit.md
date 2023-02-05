@@ -22,3 +22,15 @@ iOSアプリケーションの制御を行うシングルトンなクラス
 - 遠隔操作イベント受信の有効・無効化
 - 状態のリストア
 
+# Views and Controls
+
+## UICollectionView
+
+[UICollectionView](https://developer.apple.com/documentation/uikit/uicollectionview)
+
+[`UICollectionViewDiffableDataSource`](https://developer.apple.com/documentation/uikit/uicollectionviewdiffabledatasource)など、[`UICollectionViewDataSource`](https://developer.apple.com/documentation/uikit/uicollectionviewdatasource)プロトコルに準拠した
+[`dataSource`]()プロパティが保持する
+
+### UICollectionViewDiffableDataSource
+
+紐付けた
